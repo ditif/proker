@@ -93,3 +93,46 @@ program kerja dti
 3. Cadangan Perangkat rusak	150
 4. PC Lab dan Kerja(subtitusi atau perawatan)	250
 
+## [P11] Modernisasi sarana dan teknologi pembelajaran, infrastruktur pendukung online learning dan digital classroom, aplikasi e-learning (LMS) dan konten e-learning. -2050
+
+### A.Pendalaman evaluasi diri dengan melakukan asesmen dukungan TI terhadap sistem pembelajaran, meliputi infrastruktur TI pendukung e-learning, ketersediaan kelas digital (digital classroom), learning management system (LMS) dan konten pembelajaran digital (konten e-learning).
+
+1. Jasa Konsultansi e-learning	-450
+2. Jasa Konsultansi infrastruktur e-elarning	-450
+
+
+### B.Pengembangan fitur-fitur aplikasi LMS memenuhi kebutuhan aktivitas pembelajaran daring, target selesai 75%. (integrasi LMS dengan sistem informasi akademik: kelas mata kuliah, enrollment mahasiswa peserta kelas mata kuliah, RPS mata kuliah, integrasi pencatatan presensi kehadiran dosen di LMS dengan sistem informasi akademik)
+
+1.Euis LMS Integrator	-150
+
+### C.Pembuatan konten-konten pembelajaran digital, target terpenuhi 40% dari total mata kuliah yang dikategorikan dapat disampaikan melalui e-learning. Peningkatan kualitas konten pembelajaran digital.
+
+1. Insentif Bahan Ajar Digital	-1000
+
+
+## [P22] Masuk peringkat 200 terbaik nasional versi pemeringkatan Webometrics -1590
+
+### A. Evaluasi diri dengan asesmen peringkat ULBI di Webometrics, berdasarkan histori posisi ULBI (atau sebelumnya POLTEKPOS dan STIMLOG) selama setidaknya 4 (empat) kali pemeringkatan terakhir.
+
+1. Jasa Konsultansi Webo	-370
+
+### B.Edukasi kepada seluruh manajemen ULBI dan sivitas akademik ULBI, bahwa pemeringkatan Webometrics adalah tanggung jawab bersama.
+
+1. Insentif Publikasi Ilmiah	-1000
+
+### C.Kajian mendalam terkait semua indikator penilaian Webometrics (impact, openness dan excellence).
+
+1. Dokumen Konsultansi Webo	-0
+
+### D.Perumusan strategi setiap indikator penilaian Webometrics dan penentuan peta jalan, target dan PIC pelaksana.
+
+1. Monitoring Evaluasi Insentif, Kinerja dan BKD, Jabfung Dosen	-100
+
+### E.Optimasi implementasi strategi untuk meningkatkan indikator nilai impact/visibility ULBI di Webometrics.
+
+1. Evaluasi Serapan Insentif Publikasi Ilmiah	-0
+
+### F.Migrasi seluruh layanan web yang berkaitan dengan Webometrics dari domain institusi lama (POLTEKPOS dan STIMLOG) ke domain ULBI. Memastikan bahwa ULBI telah terindeks dalam Webometrics, dan setidaknya mencapai peringkat 5000 di dunia.
+
+1. Korenspondensi dan Konsultansi Webo	-120
+
