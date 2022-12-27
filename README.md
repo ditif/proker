@@ -25,7 +25,7 @@ program kerja dti
 11. aplikasi IoS	-85
 12. Aplikasi Android	-54
 
-## [P5] Implementasi transformasi digital tahap 1, fokus pada layanan akademik, keuangan, sumber daya manusia dan manajemen performansi (integration, request for change, development, operation). 
+## [P5] Implementasi transformasi digital tahap 1, fokus pada layanan akademik, keuangan, sumber daya manusia dan manajemen performansi (integration, request for change, development, operation). -1079
 
 ### A. Pendalaman evaluasi diri berupa asesmen data, aplikasi dan sistem informasi. 
 
@@ -66,4 +66,30 @@ program kerja dti
 ### J.Perumusan strategi pengembangan atau akuisisi aplikasi manajemen SDM dan manajemen performansi secara bertahap.
 
 1. Aplikasi SDM Tahap-2	-97
+
+
+## [P6] Peningkatan kuantitas dan kualitas infrastruktur teknologi informasi (data center dan jaringan). -3840
+
+### A.Pendalaman evaluasi diri dengan melakukan asesmen arsitektur teknologi, khususnya pada infrastruktur TI yaitu data center dan jaringan.
+
+1. Jasa Konsultansi Assesmen arsitektur dan infrastruktur 	-500
+
+### B.Pembuatan rencana strategis pengembangan arsitektur teknologi, khususnya infrastruktur data center dan jaringan.
+
+1. Dokumen Hasil Konsultansi dan Dokumen DTI	-0
+
+### C.Peningkatan standar data center ULBI dengan diikuti peningkatan kuantitas dan kualitas infrastruktur server untuk menjalankan layanan data, aplikasi dan sistem informasi ULBI, dengan target 75% dari kebutuhan telah terpenuhi.
+
+1. Server	-280
+2. Parallel Computing Device	-70
+3. Standing Floor AC	-120
+4. Restfloor	-750
+5. Core Switch Spare	-120
+
+### D.Peningkatan standar jaringan ULBI, termasuk ketersediaan bandwidth koneksi Internet yang memadai, kuantitas dan kualitas infrastruktur jaringan, serta jangkauan area wifi di dalam kampus ULBI, dengan target pemenuhan 90% kebutuhan.
+
+1. Internet	600
+2. Maintenance jaringan Intranet(termasuk upgrade FO dan switch)	1000
+3. Cadangan Perangkat rusak	150
+4. PC Lab dan Kerja(subtitusi atau perawatan)	250
 
